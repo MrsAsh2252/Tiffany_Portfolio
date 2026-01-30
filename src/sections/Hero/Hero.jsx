@@ -69,13 +69,13 @@ useEffect(() => {
         </h1>
         <h2>3D Artist/3D Modeler</h2>
         <span>
-            <a href="https://scholar.google.com/citations?user=TLM2V2EAAAAJ&hl=en" target="_blank">
+            <a href="https://www.artstation.com/chengxin_yu" target="_blank">
             <img src={artstationIcon} alt="ArtStation icon" />
           </a>
           <a href="https://www.instagram.com/mrs.ash_modelart/" target="_blank" rel="noopener noreferrer">
             <img src={instagramIcon} alt="Instagram icon" />
           </a>
-          <a href="www.linkedin.com/in/chengxinyu" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/chengxinyu" target="_blank" rel="noopener noreferrer">
             <img src={linkedinIcon} alt="Linkedin icon" />
           </a>
         </span>
